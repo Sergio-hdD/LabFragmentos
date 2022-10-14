@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LabFragmentos</string>
+
+    <string name="mostrarContenido">Mostrar contenido</string>
+    <string name="textSegundoFragment">Este es segundo fragmento</string>
+
 </resources>
